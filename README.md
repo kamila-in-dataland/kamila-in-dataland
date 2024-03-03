@@ -4,7 +4,6 @@ Welcome to my data-driven corner of the coding universe! 🚀
 
 Here's a little about me:
 - 🌱 Currently honing my skills in Pandas, scikit-learn, and Python.
-- 👩‍💻 Actively seeking exciting data science opportunities.
 - 📊 Love diving into complex datasets and extracting hidden gems.
 
   ## 😄 Fun Facts
